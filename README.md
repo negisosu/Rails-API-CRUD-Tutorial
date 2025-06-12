@@ -1,6 +1,6 @@
 # 最低限のCRUD操作のRails API Tutorial
 
-[この記事](https://zenn.dev/jinku/articles/92b76bf09d5351)をみながら作成しました。
+[この記事](https://zenn.dev/forge422/articles/d3ca59ed9e4521)をみながら作成しました。
 
 ## 起動
 ```aiignore
